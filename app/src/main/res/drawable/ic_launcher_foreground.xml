@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Spectrum bars inside the adaptive-icon safe zone (centre 66dp of 108dp). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#7FD1C4" android:pathData="M32,58h7v18h-7z" />
+    <path android:fillColor="#7FD1C4" android:pathData="M43,44h7v32h-7z" />
+    <path android:fillColor="#7FD1C4" android:pathData="M54,52h7v24h-7z" />
+    <path android:fillColor="#FFB95C" android:pathData="M65,34h7v42h-7z" />
+</vector>
